@@ -24,17 +24,20 @@ CONFIG = {
     
     # 4. Tags List (Exact Mirror of Hashtags)
     "tags": [
-        "science", "sciencevideo", "learning", "knowledge", "sciencefacts", 
-        "spacefacts", "innovation", "research", "technology", "scientificmind", 
-        "stemeducation", "physicsfacts", "biologyfacts", "chemistryfacts", 
-        "dailyscience", "curiosity", "futuretech", "scienceexplained", 
-        "scienceshorts", "ytshorts", "Science", "STEM", "Learning", 
-        "Discovery", "SpaceScience", "Innovation", "Shorts", "Facts", 
-        "Science", "ScienceVideo", "Facts", "Discovery", "Knowledge", 
-        "Learning", "SpaceFacts", "STEM", "ScientificMind", "PhysicsFacts", 
-        "BiologyFacts", "ChemistryFacts", "Research", "USA", "USAScience", 
-        "ViralUSA", "EnglishContent", "GlobalScience"
-    ]
+    "psychology", "psychologyfacts", "psychologyshorts", "humanbehavior",
+    "mindfacts", "brainfacts", "howpeoplethink", "peoplepsychology",
+    "darkpsychology", "manipulationpsychology", "persuasiontechniques",
+    "bodylanguage", "subconsciousmind", "behavioralpsychology",
+    "socialpsychology", "cognitivebias", "mentaltricks", "mindhacks",
+    "whywedothis", "truthaboutpeople", "deepfacts", "relatablefacts",
+    "attractionpsychology", "datingpsychology", "relationshippsychology",
+    "overthinking", "confidence", "selfimprovement", "selfawareness",
+    "habits", "personalitytypes", "introvert", "extrovert",
+    "didyouknow", "mindblowingfacts", "interestingfacts", "factshorts",
+    "learnontiktok", "viralshorts", "shorts", "ytshorts",
+    "usa", "americanpeople", "englishcontent", "globalaudience",
+    "trending", "fyp", "foryou", "foryoupage"
+   ]
 }
 
 CHANNEL_CUSTOM_NAME = "My Education Channel"
