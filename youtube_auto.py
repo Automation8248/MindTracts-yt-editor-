@@ -19,8 +19,8 @@ CONFIG = {
     "title_prompt": "Write a short viral psychology fact or human behavior title in English under 60 characters. No hashtags. No quotes. No emoji.",
     "desc_prompt": "Write a deep, insightful and relatable explanation (max 2 sentences) about human behavior, mindset, emotions, or the subconscious mind. Plain text only. No stars. No hashtags inside text."
     # 3. SEO Settings (Science & Tech - USA Targeting)
-    ""seo_hashtags": #psychology #psychologyfacts #humanbehavior #mindfacts #brainfacts #darkpsychology #psychologytricks #mentalhacks #bodylanguage #subconsciousmind #socialpsychology #behavioralpsychology #cognitivebias #peoplepsychology #truthaboutpeople #deepfacts #relatablefacts #attractionpsychology #datingpsychology #relationshippsychology #confidence #selfimprovement #mindset #overthinking #personalitytypes #introvert #extrovert #didyouknow #mindblowingfacts #interestingfacts #learnsomethingnew #factshorts #psychologyshorts #shorts #ytshorts #viralshorts #trending #fyp #foryou #foryoupage #usa #americanpeople #englishcontent #globalaudience",
-    
+    "seo_hashtags": "#psychology #psychologyfacts #humanbehavior #mindfacts #brainfacts #darkpsychology #psychologytricks #mentalhacks #bodylanguage #subconsciousmind #socialpsychology #behavioralpsychology #cognitivebias #peoplepsychology #truthaboutpeople #deepfacts #relatablefacts #attractionpsychology #datingpsychology #relationshippsychology #confidence #selfimprovement #mindset #overthinking #personalitytypes #introvert #extrovert #didyouknow #mindblowingfacts #interestingfacts #learnsomethingnew #factshorts #psychologyshorts #shorts #ytshorts #viralshorts #trending #fyp #foryou #foryoupage #usa #americanpeople #englishcontent #globalaudience",
+
     # 4. Tags List (Exact Mirror of Hashtags)
     "tags": [
     "psychology", "psychologyfacts", "psychologyshorts", "humanbehavior",
