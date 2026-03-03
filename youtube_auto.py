@@ -24,19 +24,17 @@ CONFIG = {
 
     # 4. Tags List (Exact Mirror of Hashtags)
     "tags": [
-    "psychology", "psychologyfacts", "psychologyshorts", "humanbehavior",
-    "mindfacts", "brainfacts", "howpeoplethink", "peoplepsychology",
-    "darkpsychology", "manipulationpsychology", "persuasiontechniques",
-    "bodylanguage", "subconsciousmind", "behavioralpsychology",
-    "socialpsychology", "cognitivebias", "mentaltricks", "mindhacks",
-    "whywedothis", "truthaboutpeople", "deepfacts", "relatablefacts",
-    "attractionpsychology", "datingpsychology", "relationshippsychology",
-    "overthinking", "confidence", "selfimprovement", "selfawareness",
-    "habits", "personalitytypes", "introvert", "extrovert",
-    "didyouknow", "mindblowingfacts", "interestingfacts", "factshorts",
-    "learnontiktok", "viralshorts", "shorts", "ytshorts",
-    "usa", "americanpeople", "englishcontent", "globalaudience",
-    "trending", "fyp", "foryou", "foryoupage"
+        "Motivation", "Motivational Video", "Best Motivational Speech", "Morning Motivation",
+        "Study Motivation", "Workout Motivation", "Success Mindset", "Inspiration",
+        "Discipline", "Focus", "Never Give Up", "Believe in Yourself", "Hustle",
+        "Entrepreneur", "Business Mindset", "Life Advice", "Wisdom", "English Speech",
+        "USA", "American Motivation", "Speech 2026", "Mindset", "Growth",
+        "Personal Development", "Hard Work", "Mental Health", "Sigma Male",
+        "habits", "personalitytypes", "introvert", "extrovert",
+        "didyouknow", "mindblowingfacts", "interestingfacts", "factshorts",
+        "learnontiktok", "viralshorts", "shorts", "ytshorts",
+        "usa", "americanpeople", "englishcontent", "globalaudience",
+        "trending", "fyp", "foryou", "foryoupage"
    ]
 }
 
